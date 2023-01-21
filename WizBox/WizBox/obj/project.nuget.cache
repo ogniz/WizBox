@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hrEh+DM5CLLoicSnIeXIaY7ywQXNWWzVWa8bsp+ByxaUhb3WqyDqToOMjLWuqt60sfEdouDQLfSn53hcXJ4+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nizzle\\Desktop\\WizBox-main\\WizBox\\WizBox\\WizBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nizzle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

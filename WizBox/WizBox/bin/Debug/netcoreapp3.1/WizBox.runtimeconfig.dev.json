@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nizzle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nizzle\\.nuget\\packages"
+    ]
+  }
+}
